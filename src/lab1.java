@@ -19,6 +19,7 @@ import static java.lang.Integer.parseInt;
 public class lab1 {
 
     public static void main(String[] args) {
+        System.out.println("sdsdsdsdsdsdsd");
 
         // nome do arquivo
         String nomeDoArquivo1 = "pib.txt";
